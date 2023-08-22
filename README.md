@@ -14,7 +14,7 @@
 
 **[Fig](https://fig.io?ref=github_autocomplete) adds autocomplete to your terminal.**
 
-As you type, Fig pops up subcommands, options, and contextually relevant arguments in your existing terminal on macOS.
+As you type, Fig pops up subcommands, options, and contextually relevant arguments in your existing terminal on macOS.1
 
 ## ⚡️ Installation
 
